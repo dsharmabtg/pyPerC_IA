@@ -1,2 +1,1 @@
-# pyPerC_IA
-python code for PerC_IA
+This repository is the python code for the following paper, ""A Python Software Library for Computing with Words and Perceptions" [\href{a="https://ieeexplore.ieee.org/abstract/document/9494557"}link]
