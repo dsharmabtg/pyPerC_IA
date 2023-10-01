@@ -47,4 +47,4 @@ if __name__ == "__main__":
     index=np.argmax(S)
     maxS = np.max(S)
     decode=words[index]  #decoding
-    #print("MaxS:",maxS," Decode:",decode)
+    print("MaxS:",maxS," Decode:",decode)
